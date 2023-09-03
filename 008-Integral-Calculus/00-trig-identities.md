@@ -20,9 +20,10 @@ $$
 ## Double angle identities:
 $$
 \begin{aligned}
-& \sin 2 \theta = 2 \sin \theta \cos \theta \\
-& \cos 2 \theta = 1 - 2 \sin^2 \theta = 2 \cos^2 \theta - 1 \\ 
-& \tan 2 \theta = \dfrac{2 \tan \theta}{1 - \tan^2 \theta} \\
+\sin 2 \theta &= 2 \sin \theta \cos \theta \\
+\cos 2 \theta &= 1 - 2 \sin^2 \theta \\
+              &= 2 \cos^2 \theta - 1 \\ 
+\tan 2 \theta &= \dfrac{2 \tan \theta}{1 - \tan^2 \theta} \\
 \end{aligned}
 $$
 ## Product-to-sum identities:
@@ -39,11 +40,33 @@ $$
 $$
 \begin{aligned}
 
-& \sin 2 \theta = 2 \sin \theta \cos \theta \\
-& \cos 2 \theta = 1 - 2 \sin^2 \theta = 2 \cos^2 \theta - 1 \\
+ \sin 2 \theta &= 2 \sin \theta \cos \theta \\
+ \cos 2 \theta &= 1 - 2 \sin^2 \theta \\
+                &= 2 \cos^2 \theta - 1 \\
 \end{aligned}
 $$
 
+## Power Reduction
+$$
+\begin{aligned}
+\sin^2 \theta &= \dfrac{1 - \cos 2 \theta}{2} \\
+            &= \dfrac{1}{2}[1-\cos 2 \theta]
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\cos^2 \theta &= \dfrac{1 + \cos 2 \theta}{2} \\
+            &= \dfrac{1}{2}[1+\cos 2 \theta]
+
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\tan^2 \theta = \dfrac{\tan^2 \theta - 1}{1 + \tan^2 \theta}
+\end{aligned}
+$$
 ## Cofunction identities:
 $$
 \begin{aligned}
