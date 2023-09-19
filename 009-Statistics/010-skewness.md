@@ -3,7 +3,7 @@
 ## Pearson's 1st coefficient of skewness
 * Remove the 3 in the 2nd formula. 
 ## Pearson's 2nd coefficient of skewness
-skewness | SK = $\cfrac{3(\bar{x} - \hat{x})}{s}$ <br>
+skewness | SK = $\cfrac{3(\bar{x} - \tilde{x})}{s}$ <br>
 where: <br>
     [$\bar{x}$](./07-central-tendency.md) = mean <br>
     [$\hat{x}$](./07-central-tendency.md) = mode <br>
