@@ -1,4 +1,6 @@
 {
   "theme": "system",
-  "accentColor": "#16ffff"
+  "accentColor": "#16ffff",
+  "baseFontSize": 30,
+  "textFontFamily": "Consolas"
 }

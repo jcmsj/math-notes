@@ -19,9 +19,8 @@
 13.
 $$
 \begin{aligned}
-\int \tan^2 x \; dx &= \tan x -x + C\\
+\int \tan^2 x \; dx &= \tan x -x + C \\
                     &= \dfrac{1}{2} \ln \left| \sec x \right| + C
-                    
 \end{aligned}
 $$
 14. $\int \cot^2 x \, dx = -\dfrac{1}{2} \ln \left| \csc x \right| + C$
