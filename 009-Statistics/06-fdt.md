@@ -17,13 +17,11 @@ $$
 6. Class Mark (CM) - midpoint of a class interval
 
 ## Construction
-1. Sort data ASC.
-2. calc [range](./09-dispersion.md#range)
-3. Calc number of intervals
+1. calc [range](./09-dispersion.md#range)
+2. Calc number of intervals
    * Sturges Formula: K = 1+3.322 log n
-4. add column 'f'
-4. Tally observations into each interval @ 'f'.
-5. Calc [cumulative frequencies](#cumulative-frequency-distribution--cfd).
+3. Tally observations of each class into column 'f'.
+4. Calc [cumulative frequencies](#cumulative-frequency-distribution--cfd).
 
 ## __Cumulative Frequency Distribution | CFD__
  1. __Greater than CFD | > CFD__ - Shows n observations > LCB
