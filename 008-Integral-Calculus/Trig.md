@@ -1,10 +1,8 @@
-# Transcendental Integration
-
-## Exponential Integration
-1. $\int e^x dx = e^x + C$
-2. $\int a^x dx = \cfrac{a^x}{\ln a} + C$
-## Trigonometric Integration
-### Shorthand conversions:
+## Pre-Requisite
+* [Trig Identities](./00.0-trig-identities.md)
+* [Unit circle](./unit-circle.jpg)
+  
+## Shorthand conversions:
 1. $\int \sin x \;dx = -\cos x +C$
 2. $\int \cos x \;dx = \sin x + C$
 3. $\int \tan x \;dx = \ln |\sec x|$ + C
@@ -21,17 +19,12 @@
 13.
 $$
 \begin{aligned}
-
 \int \tan^2 x \; dx &= \tan x -x + C\\
                     &= \dfrac{1}{2} \ln \left| \sec x \right| + C
                     
 \end{aligned}
 $$
 14. $\int \cot^2 x \, dx = -\dfrac{1}{2} \ln \left| \csc x \right| + C$
-### Subsitutions:
-| Case                     | x value     |
-| ------------------------ | ----------- |
-| $\int \sqrt{a^2-x^2} dx$ | x = a sin θ |
-| $\int \sqrt{a^2+x^2} dx$ | x = a tan θ |
-| $\int \sqrt{x^2-a^2} dx$ | x = a sec θ |
 
+## Read also
+  * [Trig substitution](./Trig%20Substitution.md)
