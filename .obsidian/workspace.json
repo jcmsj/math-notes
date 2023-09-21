@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008-Integral-Calculus/01.4-definite-integral.md",
+                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008-Integral-Calculus/01.4-definite-integral.md",
+                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "008-Integral-Calculus/01.4-definite-integral.md",
+                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "008-Integral-Calculus/01.4-definite-integral.md"
+                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md"
               }
             }
           }
@@ -156,15 +156,16 @@
   },
   "active": "87aefa7eff72e306",
   "lastOpenFiles": [
+    "008-Integral-Calculus/100problems.pdf",
+    "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
+    "008-Integral-Calculus/Transcendental.md",
+    "008-Integral-Calculus/01.4-definite-integral.md",
     "008-Integral-Calculus/Trig.md",
     "008-Integral-Calculus/Hyperbolic.md",
     "008-Integral-Calculus/Hyperbolic Identities.md",
     "006/Graph Theory.md",
     "006/Combinatorics.md",
-    "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
-    "008-Integral-Calculus/Transcendental.md",
     "008-Integral-Calculus/Inverse Trig.md",
-    "008-Integral-Calculus/100problems.pdf",
     "015/01.md",
     "015/02.md",
     "015/Gates.png",
