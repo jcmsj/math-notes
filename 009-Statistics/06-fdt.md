@@ -17,7 +17,7 @@ $$
 6. Class Mark (CM) - midpoint of a class interval
 
 ## Construction
-1. calc [range](./09-dispersion.md#range)
+1. calc [range](09-variability#range)
 2. Calc number of intervals
    * Sturges Formula: K = 1+3.322 log n
 3. Tally observations of each class into column 'f'.

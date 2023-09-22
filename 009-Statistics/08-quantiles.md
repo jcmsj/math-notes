@@ -28,9 +28,9 @@ $$
    where: <br>
     P = is a [type](#types)
     
-2. $\mu + \left[ \cfrac{ raw - <cf}{\displaystyle f_{\displaystyle p_k}} \right]i$ <br>
+2. $lb_{P_k} + \left[ i \cfrac{ raw - <cf}{\displaystyle f_{\displaystyle p_k}} \right]$ <br>
     where
-    * μ =lower class boundary of quantile class
+    * $lb_{P_k}$ =lower class boundary of quantile class
     * &lt;cf = cumulative frequency that is less than the quantile class
     * f = frequency of quantile class
     * i = class interval

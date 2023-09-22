@@ -6,7 +6,7 @@
 skewness | SK = $\cfrac{3(\bar{x} - \tilde{x})}{s}$ <br>
 where: <br>
     [$\bar{x}$](./07-central-tendency.md) = mean <br>
-    [$\hat{x}$](./07-central-tendency.md) = mode <br>
+    [$\tilde{x}$](./07-central-tendency.md) = median <br>
     s = [standard deviation](./09-variability.md#measures-of-variability)
 
 | if value is | $\therefore$ |

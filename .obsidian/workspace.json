@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64119dd7832ee76d",
+        "id": "aeb434fba4d4ae15",
         "type": "tabs",
         "children": [
           {
-            "id": "87aefa7eff72e306",
+            "id": "5392bd83609e65a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
-                "mode": "source",
+                "file": "009-Statistics/08-quantiles.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
+                "file": "009-Statistics/08-quantiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
+                "file": "009-Statistics/08-quantiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md"
+                "file": "009-Statistics/08-quantiles.md"
               }
             }
           }
@@ -154,9 +154,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87aefa7eff72e306",
+  "active": "5392bd83609e65a9",
   "lastOpenFiles": [
+    "009-Statistics/07-central-tendency.md",
+    "009-Statistics/06-fdt.md",
+    "009-Statistics/09-variability.md",
+    "009-Statistics/04-data-classification.md",
+    "009-Statistics/05-sampling-and-collection.md",
+    "009-Statistics/01-Types.md",
+    "009-Statistics/02-population.md",
+    "009-Statistics/03-variables-measurement.md",
+    "009-Statistics/08-quantiles.md",
+    "009-Statistics/toc.md",
+    "009-Statistics/010-skewness.md",
+    "variability.md",
+    "008-Integral-Calculus/Unit Circle.md",
     "008-Integral-Calculus/100problems.pdf",
+    "008-Integral-Calculus/Trig Substitution.md",
     "008-Integral-Calculus/Inverse Trig and Inverse Hyperbolic.md",
     "008-Integral-Calculus/Transcendental.md",
     "008-Integral-Calculus/01.4-definite-integral.md",
@@ -169,10 +183,6 @@
     "015/01.md",
     "015/02.md",
     "015/Gates.png",
-    "2022-10-01.md",
-    "015/bit-ops.md",
-    "015/inference-rules.md",
-    "015/quanitifiers.md",
-    "015/replacement-rules.md"
+    "2022-10-01.md"
   ]
 }

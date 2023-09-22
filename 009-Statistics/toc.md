@@ -11,10 +11,11 @@
 1. [Data classification](./04-data-classification.md)
 2. [Sampling kinds](./05-sampling-and-collection.md#sampling-kinds)
 3. [Collection methods](./05-sampling-and-collection.md#data-collection)
-4. Frequency Distribution Table
-5. Central Tendency
+4. [Frequency Distribution Table](06-fdt.md)
+5. [Central Tendency](07-central-tendency.md)
    1. Ungrouped
    2. Grouped
-6. Skewness
-7. Locations
+7. [Quantiles](08-Quantiles.md)
+8. [Variability](09-variability.md)
+9. [Skewness](010-skewness.md)
 

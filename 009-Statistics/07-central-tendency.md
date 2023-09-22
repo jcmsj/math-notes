@@ -3,7 +3,7 @@
 
 
 
-| Meausre | Ungrouped                                              | Grouped                                                                                         |
+| Measure | Ungrouped                                              | Grouped                                                                                         |
 | ------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | Mean    | $\bar{x} = \cfrac{\sum\ x_i}{n}$         | $\mu = \cfrac{\sum\ fx}{N}$                                                                     |
 | Median  | $\displaystyle \tilde{x} =$ sorted middle  <br> if even size, avg the two centers. |  Use [2nd quartile](./08-quantiles.md#quantiles) grouped formula |
