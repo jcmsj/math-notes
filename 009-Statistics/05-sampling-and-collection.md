@@ -8,6 +8,6 @@
 ## Data Collection
 1. Survey - Asks questions
 2. Observation
-3. Experimental
+3. Experimentation
 4. Study reuse
 5. Registration - registration info

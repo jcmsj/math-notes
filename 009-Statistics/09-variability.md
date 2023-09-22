@@ -17,3 +17,9 @@ Quartile Deviation = QD = $\cfrac {IQR}{2}$
 | Standard deviation      | s                                        | $\sigma$                                  |
 | Mean Absolute Deviation | $MD = \cfrac{\sum f \lvert x - \bar{x}\rvert}{N}$     |                                           |
 
+	
+## Calcu: Columns for FDT
+| class | frequency | midpoint | fx | MD | Variance|
+|-|-|-|-|-|-|
+|- |A |B |C |D| E|
+| class | f |x| fx | $\lvert x - \bar{x}\rvert$ | $f(x-\bar{x})^2$|
