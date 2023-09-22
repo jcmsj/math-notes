@@ -1,8 +1,8 @@
 # Measures of Variability
 
-### Range
 $\text{Range} = \max(x) - \min(x)$
-
+Interquartile Range = IQR = $Q_3 - Q_1$
+Quartile Deviation = QD = $\cfrac {IQR}{2}$
 ### Ungrouped
 |                         | Sample                                             | Population                            |
 | ----------------------- | -------------------------------------------------- | ------------------------------------- |
